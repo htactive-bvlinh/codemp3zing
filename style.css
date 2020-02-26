@@ -2,3 +2,19 @@
     order: 2;
     align-items: center;    
 }
+.container{
+    padding-top: 15px;
+}
+.img-rep{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+.clear-ul{
+    list-style-type:none;
+    padding: 0;
+}
+.clear-ul li {
+   padding-bottom: 5px;
+}
