@@ -32,9 +32,10 @@
     vertical-align:middle;
     
 }
+
 .tb-img{
-    max-width: 80px;
-    width: 90px;;
+    max-width: 80px;  
+    width: 90px; 
 }
 .tb-img img{
     width: 60px;
