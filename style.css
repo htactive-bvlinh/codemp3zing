@@ -18,3 +18,45 @@
 .clear-ul li {
    padding-bottom: 5px;
 }
+.slide-top{
+    padding-bottom: 5px;
+}
+.xephang-container{
+    
+    text-align: center  ;
+    
+}
+.tb-number{
+    font-size: 20px;
+    justify-content: center;
+    vertical-align:middle;
+    
+}
+.tb-img{
+    max-width: 80px;
+    width: 90px;;
+}
+.tb-img img{
+    width: 60px;
+    height: 60px;
+}
+.tb-infor{
+    text-align: left;
+}
+.name-song{
+    font-size: 18px;
+
+}
+.name-singer{
+    font-size: 15px;
+    color: #999999;
+}
+.tb-icon{
+    font-size: 20px;
+    text-align: left;
+    padding-top: 20px;
+}
+.tb-view{
+    font-size: 15px;
+    color: #999999;
+}
