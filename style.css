@@ -61,3 +61,19 @@
     font-size: 15px;
     color: #999999;
 }
+.product{
+    text-align: center;
+    position: relative;
+    transition:all .3s ease 0s
+}
+.product .image-product{
+    overflow: hidden;
+}
+.product .image-product a{
+    display: block;
+}
+.product .image-product img{
+    width: 100%;
+    height: auto;
+    transition:all .5s ease 0s;
+}
